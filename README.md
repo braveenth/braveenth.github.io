@@ -8,3 +8,5 @@ The goal of this blog is to keep readers informed about the various software and
 ## Current Hardware Projects
 * HVAC system temperature sensitivity analysis using a Raspberry Pi, various temperature sensors, and actuators (that controls vents).
 
+## Current Stack
+*Jekyll on GitHub Pages 
