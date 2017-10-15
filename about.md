@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Test. This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am an entrepreneur who is focused on developing technologically innovative solutions for individuals and organizations.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My key interests revolve around assisting individuals and businesses with leveraging technological innovations to meet changing consumer preferences.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Fun facts:
+- Started working with electronics and computers when I was 6 years old (2000).
+- Created an Active Directory environment with terminal services and Internet Information Systems (IIS) using windows Server 2003 when I was 10 years old, just for fun. Motivation for this project was the result of my fascination with my school’s implementation of Windows and roaming user profiles.
+
+
+

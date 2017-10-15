@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "ReadMe"
+date:   2016-07-02 16:00:00 -0400
+categories: jekyll update
+---
+Having made some drastic changes to my life and workflow in 2016, I’ve come to the realization lately that some people want to know what’s going on in my life and the projects that I’m working on. One of the major goals for 2016 was to “detox” and cut things out of my life that doesn’t add value (either directly or indirectly), and one of the areas that I neglected this year (and the prior year) was social media. As much as I wanted to see what was going on in the lives of people who I have met, I’ve been finding that it has been very destructive to the workflow that I was aiming for. Although I still use Facebook from time to time to keep in touch with friends and acquaintances, I no longer scroll down the newsfeed and I rarely post.
+
+I’m not cutting out social media from my life permanently but there are specific objectives that I want to achieve in 2016 and potentially in 2017 and time is of the essence. This is analogous to a car with a nearly dead battery: would you really want to have anything turned on that may drain the battery further? You would want to allow the starter motor to have exclusive access to the bulk of the energy, and this blog makes it possible to be much more efficient in communicating and connecting with others.
+
+This website enhances efficiency for me and allows me to have an archive of projects. It will be like a time capsule and I can refer to it whenever I want to be reminded of what I have worked on and what I’m capable of. It also serves as a portfolio and allows myself and others to see how my ideas and goals may change over time. In terms of the efficiency factor, I can allow for search terms to point to my projects, where there is a potential to connect with new peers who may have the same interests as I do. This website will also allow people to quickly see at a glance what I’ve been working on so that I don’t have to explain it multiple times to multiple people: I can simply inform peers about my website and mention that there is a lot more detail there. 
+
+Innovation, without a doubt, requires socialization and collaboration, and I don't want to be a hermit while there are all these avenues and resources that can be leveraged to put my ideas out to the world. Growing up, I was fascinated by personal websites which contained various projects and ideas. This website is one of the ways that I want to pay forward the inspiration that I received from various publishers on the internet during my formative years.
+
+As a huge advocate of open-source software, I am interested in releasing ideas and projects to the public where there can be feedback made so that I can build upon my ideas. Feedback would allow me to iterate my designs and release updates to my viewers. My viewers may also decide to follow my instructions and do the same projects, which to me would be the best possible compliment to recieve.
+
+The idea, construction, and maintenance of this website reflects the changes that I have committed to my life this year. The goal is to increase my online presence and be more efficient at getting my ideas across to others and further build social capital. I did not want this year to go by like any other year, and I hope you, the reader, find enjoyment in browsing through this idea of mine. 
+
+
